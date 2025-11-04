@@ -1,0 +1,10 @@
+cause,bg_fatal_acc,bg_fatal_kill,bg_fatal_inj,bg_serious_acc,bg_serious_inj,oc_fatal_acc,oc_fatal_kill,oc_fatal_inj,oc_serious_acc,oc_serious_inj,ag_fatal_acc,ag_fatal_kill,ag_fatal_inj,ag_serious_acc,ag_serious_inj,total_fatal_acc,total_fatal_kill,total_fatal_inj,total_serious_acc,total_serious_inj
+Ground movement,3,3,0,5,5,4,5,0,0,0,0,0,0,0,0,7,8,0,5,5
+Transportation machinery (winding),1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,2,2,0,1,1
+Transportation machinery (non winding),0,0,0,0,0,12,12,1,0,0,3,3,0,1,1,15,15,1,1,1
+Machinery other than transp. machinery,0,0,0,1,1,2,2,0,2,2,0,0,0,2,2,2,2,0,5,5
+Explosives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electricity,0,0,0,0,0,2,2,0,1,2,0,0,0,0,0,2,2,0,1,2
+"Dust, gas & other combustible material",0,0,0,0,0,0,0,0,0,0,1,2,10,1,2,1,2,10,1,2
+Falls (other than fall of ground),0,0,0,0,0,9,10,1,0,0,4,4,0,11,11,13,14,1,14,14
+Other causes,0,0,0,0,0,3,3,1,2,2,0,0,0,5,6,3,3,1,7,8

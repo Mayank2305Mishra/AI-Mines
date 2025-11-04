@@ -1,0 +1,102 @@
+mine_name,date,killed,injured,cause_code,cause_description
+MASARO KI OBERI SERPENTINE MINE,14/07/15,1,0,0443,Fall of sides (other than overhangs)
+CHANDRIKA GRANITE MINE,28/09/15,1,0,0993,Drowning in water
+A.Subha Naidy & Co. Mica,02/02/01,9,0,0111,Fall of roof
+Redhill Ruby,11/04/02,5,4,0111,Fall of roof
+Hannumanoya/41B Mica,26/09/04,7,0,0112,Fall of sides (other than overhangs)
+Salayakhad Mica,29/12/06,4,2,0112,Fall of sides (other than overhangs)
+Chirki Mica,24/01/07,5,0,0112,Fall of sides (other than overhangs)
+Murwara Limestone,10/02/08,7,2,0112,Fall of sides (other than overhangs)
+Shivrajpur Manganese,06/12/10,12,0,0112,Fall of sides (other than overhangs)
+Charki Mica,26/04/11,4,0,0112,Fall of sides (other than overhangs)
+Make Myebya Wolfrom,04/06/12,4,0,0112,Fall of sides (other than overhangs)
+North Anantapur Gold,21/10/13,7,0,0111,Fall of roof
+Maya Salt,24/07/14,5,2,0441,Solid blasting projectiles
+Tadaiya Mica,05/11/14,5,0,0881,Irruption of water
+Wazunchaung Wolfram,12/08/16,9,0,0999,Unclassified
+Aulajhari Manganese,13/05/19,4,2,0112,Fall of sides (other than overhangs)
+Hsaikho(Mile 28.6) Limestone,28/01/20,5,0,0112,Fall of sides (other than overhangs)
+Bhalua Mica,13/09/20,4,0,0775,"Explosion/ignition of gas/dust, etc."
+Badwin Lead-Silver,18/09/20,11,0,0221,"Overwinding of cages/skip, etc. (upgoing)"
+Bawdwin Silver-Lead-Zinc,19/02/23,6,1,0221,"Overwinding of cages/skip, etc. (upgoing)"
+Cherangcode Mica,20/02/23,7,1,0112,Fall of sides (other than overhangs)
+Telewadi Manganese,01/03/27,4,0,0112,Fall of sides (other than overhangs)
+Bawdwin Silver-Lead,26/05/27,5,0,0775,"Explosion/ignition of gas/dust, etc."
+Tarki Limestone,10/09/27,4,0,0112,Fall of sides (other than overhangs)
+Kyauktalone Limestone,12/10/27,9,18,0441,Solid blasting projectiles
+Bawdwin Silver-Lead-Zinc,16/05/29,10,0,0111,Fall of roof
+Kanbank Tin and Wolfram,06/01/31,4,0,0112,Fall of sides (other than overhangs)
+Taungpila Tin,14/09/31,5,0,0112,Fall of sides (other than overhangs)
+Lady Rangi Mica,12/04/32,19,0,0775,"Explosion/ignition of gas/dust, etc."
+Wagon North Tin & Wolfram,24/08/36,7,0,0112,Fall of sides (other than overhangs)
+Salaiya Pahari Limestone,26/02/37,9,0,0112,Fall of sides (other than overhangs)
+Matauni Mica,22/12/38,4,0,0112,Fall of sides (other than overhangs)
+Porcupine Steatite,05/10/40,4,2,0111,Fall of roof
+Tatahwa Mica,15/07/43,5,0,0225,"Falling of objects from cages, skip, etc."
+Noamundi Iron,07/11/45,4,0,0112,Fall of sides (other than overhangs)
+Kaza Limestone,13/05/46,4,0,0112,Fall of sides (other than overhangs)
+Pattabhirama & Margin Mica,06/12/46,8,0,0881,Irruption of water
+Kharonia Mica,21/01/49,5,0,0441,Solid blasting projectiles
+Basorhai Diamonds,08/07/50,6,0,0112,Fall of sides (other than overhangs)
+Mysore Gold,14/06/51,4,0,0114,Rock burst/bumps
+Oorgaum Gold,11/10/51,9,9,0114,Rock burst/bumps
+Champion Reef Gold,02/11/51,4,0,0114,Rock burst/bumps
+Champion Reef Gold,19/04/52,20,4,0114,Rock burst/bumps
+Champion Reef Gold,30/06/52,10,5,0114,Rock burst/bumps
+Lanjhera Manganese,01/05/53,5,2,0112,Fall of sides (other than overhangs)
+Kachhidhana Manganese,21/06/54,5,1,0112,Fall of sides (other than overhangs)
+Mysore Gold,30/11/54,4,1,0114,Rock burst/bumps
+Venkajigudda(Vajra)Manganese,23/12/54,5,0,0112,Fall of sides (other than overhangs)
+Champion Reef Gold,27/05/55,10,8,0114,Rock burst/bumps
+Yeshwantanagar Manganese,21/04/56,5,1,0112,Fall of sides (other than overhangs)
+Tikuri Bauxite,18/08/56,5,0,0112,Fall of sides (other than overhangs)
+Madadakere Manganese,22/01/57,4,0,0112,Fall of sides (other than overhangs)
+Rajupalem Barytes,29/09/57,11,2,0112,Fall of sides (other than overhangs)
+Aytemvalasa Manganese,19/02/58,7,3,0112,Fall of sides (other than overhangs)
+Siddimella Steatite,12/05/59,8,0,0112,Fall of sides (other than overhangs)
+Serima White Earth,14/05/59,4,2,0111,Fall of roof
+Gua Iron,26/06/61,4,1,0441,Solid blasting projectiles
+Champion Reef Gold,24/03/62,4,4,0114,Rock burst/bumps
+Junawani Manganese,01/06/63,5,2,0112,Fall of sides (other than overhangs)
+Nundydroog Gold,13/08/63,5,2,0114,Rock burst/bumps
+Sonnedenhalli Iron,16/02/64,4,1,0112,Fall of sides (other than overhangs)
+Patnibona (Bakudih) Stone,13/10/64,6,0,0112,Fall of sides (other than overhangs)
+Mysore Gold,06/02/66,7,0,0221,"Overwinding of cages/skip, etc. (upgoing)"
+Borgafall Iron,02/08/66,5,0,0441,Solid blasting projectiles
+Venkateshwara Beryl & Mica,25/12/66,6,0,0112,Fall of sides (other than overhangs)
+Sarvodaya Stone,06/06/68,7,0,0441,Solid blasting projectiles
+Morija Iron,19/11/69,4,3,0112,Fall of sides (other than overhangs)
+Bhadrasai Manganese,14/10/70,4,0,0112,Fall of sides (other than overhangs)
+Bhatti Badarpur Stone,29/01/71,4,0,0112,Fall of sides (other than overhangs)
+Balawali Mica,20/06/72,4,0,0111,Fall of roof
+Kukda Limestone,22/08/78,7,6,0112,Fall of sides (other than overhangs)
+Kalidungri Dolomite,10/05/80,5,0,0112,Fall of sides (other than overhangs)
+Bhatti Badarpur Stone,17/08/80,4,0,0112,Fall of sides (other than overhangs)
+Manoharpur Iron,08/09/83,4,1,0336,Dumpers
+Surda Copper,04/04/84,5,0,0777,Well blowout (with fire)
+Ahmedabad Oil Project,30/05/84,4,0,0771,Occurrence of gas
+Rekha Fluorspar,22/02/86,8,2,0112,Fall of sides (other than overhangs)
+Ankleshwar Oil Project,15/11/88,5,0,0774,Outbreak of fire or spontaneous heating
+Nundydroog Gold,14/07/89,5,0,0114,Rock burst/bumps
+Bhatti Badarpur Stone,30/05/90,7,0,0112,Fall of sides (other than overhangs)
+Bandu Basaria Limestone,22/06/91,6,1,0113,Fall of overhang
+Pali Silica Sand,11/07/93,4,0,0112,Fall of sides (other than overhangs)
+Pokarna Granite,25/10/93,5,1,0441,Solid blasting projectiles
+Maruthi Manganese,09/07/94,4,1,0112,Fall of sides (other than overhangs)
+Rajpura Dariba Galena & Sphal.,28/08/94,13,0,0881,Irruption of water
+Pali Silica Sand,16/02/95,4,0,0112,Fall of sides (other than overhangs)
+God Granite,08/11/96,4,6,0441,Solid blasting projectiles
+Barkundi Soapstone No. 1,17/04/99,6,2,0112,Fall of sides (other than overhangs)
+Jogogoria Stone Mine,21/04/01,4,0,0775,"Explosion/ignition of gas/dust, etc."
+Borli Limestone Mine,02/06/02,4,0,0112,Fall of sides (other than overhangs)
+Devka Harmada Cheja Pathar Mine,18/11/02,5,2,0113,Fall of overhang
+Surya Granite Opencast Mine,11/03/06,4,0,0553,Fall of objects incl. rolling objects
+Tollem Group Iron Ore Mine,12/09/06,6,0,0112,Fall of sides (other than overhangs)
+Mandodi Limestone Mine,10/07/07,5,1,0112,Fall of sides (other than overhangs)
+SMS Infrastructure Ltd. Stone,12/05/08,9,20,0448,Other explosive accident
+Hamsa Mineral Granite Mine,25/02/10,14,1,0112,Fall of sides (other than overhangs)
+Bharkundi No. 1 Soapstone Mine,26/03/10,8,0,0112,Fall of sides (other than overhangs)
+Prashant Mining Quartz & Felspar Mine,24/04/10,4,0,0113,Fall of overhang
+Deokhera Garnet Mine,27/08/10,5,0,0113,Fall of overhang
+Granite Buid Stone Quarry SY 376/3-2,23/07/13,4,1,0113,Fall of overhang
+PIPALJORI STONE MINE,26/11/14,4,0,0112,Fall of sides (other than overhangs)
